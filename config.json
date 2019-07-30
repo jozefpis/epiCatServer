@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://<name_here>:<pass_here>@ds153556.mlab.com:53556/epicat",
+    "secret": "epicat"
+}
